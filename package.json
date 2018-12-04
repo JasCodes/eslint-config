@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-jas",
+  "version": "0.0.1",
+  "description": "Standard eslint configuration",
+  "main": "index.js",
+  "repository": "https://github.com/jas99/eslint-config",
+  "author": "Jaspreet Singh <dev@jas.bio>",
+  "license": "MIT"
+}
